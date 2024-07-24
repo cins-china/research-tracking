@@ -5,3 +5,5 @@
 https://github.com/1760886997/PPIs
 ### 夏皓凡 Node-classification-in-heterogeneous-graphs
 https://github.com/FINEort/Node-classification-in-heterogeneous-graphs
+### 王泓淏 Molpath
+https://github.com/Assassinswhh/Molpath

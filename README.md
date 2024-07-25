@@ -9,3 +9,5 @@ https://github.com/FINEort/Node-classification-in-heterogeneous-graphs
 https://github.com/Assassinswhh/Molpath
 ### 张洪瑞 PPI
 https://github.com/zhr1Github/PPI/tree/main
+### 赵珂：Graph-Classification    
+https://github.com/zkzqbycg/Graph-Classification.git
